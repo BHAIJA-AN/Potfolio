@@ -1,0 +1,15 @@
+/* the main comtainer  */
+.container{
+    max-width: 140rem;
+    padding: 4.2rem 2.4rem;
+    display: flex;
+    justify-content: space-between;
+    background-color:#2820201d ;
+    /* background: fixed;
+    position:fixed; */
+}
+/* the navbar gap and alignment */
+ul{
+    display:inline-flex;
+    gap: 3.2rem;
+}
